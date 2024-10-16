@@ -1,4 +1,4 @@
-# Attention! Paranormal phenomena happen here!
+# Attention! Paranormal phenomena happen here! 🧙‍♀️
 
 Ladies and gentlemen, welcome to the Repository,
 which is an absolute esoteric masterpiece!
@@ -9,7 +9,7 @@ with the variable names your Intern is creating?
 Team Leader doesn't like the way Junior
 KISS and DRY rules?
 
-Malbolge is definitely the solution for you!
+Malbolge is definitely the solution for you! 👻
 
 With Malbolge you'll be able to dive into the world
 without variables, clean code and all other
@@ -24,14 +24,14 @@ unprofitable! And you could finally break out
 from the 40-hour-a-week regime and start living
 your life!
 
-So buckle up and let's go!
+So buckle up and let's go! 🎃
 
-# What does the program do?
+# What does the program do? 🧛‍♀️
 As simple as it could be, print "Hello, world."
  
-However, the code is absolutely unreadable. 
+However, the code is absolutely unreadable. 😇
 
-# How to run this program 
+# How to run this program 🏃‍♂️
 
 I include the Dockerfile here, so there are only 
 a couple of steps you should take. 
@@ -43,7 +43,7 @@ a couple of steps you should take.
 
    docker run --rm malbolge-runner
 
-# What is Malbolge?
+# What is Malbolge? 💫
 https://esolangs.org/wiki/Malbolge 
 
 
